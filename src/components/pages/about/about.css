@@ -1,0 +1,54 @@
+.designation{
+  font-weight: lighter;
+  color: white;
+}
+.team-member{
+  background-color: #141414!important;
+  padding-top: 60px;
+  min-height: 76vh;
+  /* padding-bottom: 220px; */
+}
+.team-social{
+  font-size: 25px;
+  margin: 5px;
+}
+.insta-icon{
+  color: #E1306C;
+}
+.twitter-icon{
+ color: #1DA1F2;
+}
+.fb-icon{
+color: #3b5998;
+}
+a{
+  color: white!important;
+}
+
+@media (min-width: 699px) {
+  .team-member{
+    padding-top: 140px;
+  background-color: #141414!important;
+  }
+}
+.each-member{
+  margin: 15px;
+}
+.name{
+  color: white;
+  padding-top: 10px;
+}
+.row{
+  margin-left: 0px!important;
+  margin-right: 0px!important;
+}
+.col{
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+}
+.about-container{
+  background-color: #141414!important;
+}
+.each-member-each{
+  border-radius: 77px;
+}

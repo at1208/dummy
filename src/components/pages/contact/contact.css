@@ -1,0 +1,81 @@
+
+.input-submit-style{
+  font-size: 16px!important;
+  background-color: #1e242c!important;
+  color: white!important;
+  font-weight: lighter!important;
+  border: 0px solid black!important;
+}
+.name-input{
+    height: 50px!important;
+    margin: 2px!important;
+}
+.email-input{
+    height: 50px!important;
+    margin: 2px!important;
+}
+.textarea-input{
+    margin: 2px!important;
+    height: 160px!important;
+}
+.submit-button{
+  background-color: #04c2c9!important;
+  font-size: 12pt!important;
+padding:5px 21px 28px 12px!important;
+  margin: 8px 0 0 0!important;
+  cursor: pointer!important;
+  /* border: 2px solid #fff!important; */
+  border-color:  #04c2c9!important;
+  /* border-radius: 0px!important; */
+  color: #fff!important;
+  font-weight: lighter!important;
+
+}
+.submit-button:hover{
+  background-color: yellow!important;
+}
+.submit-button:active{
+  background-color: dodgerblue!important;
+  border-color: #04c2c9!important;
+}
+.submit-button:focus{
+  background-color: dodgerblue!important;
+    border-color: #04c2c9!important;
+}
+
+::placeholder{
+     color:#4F5155!important;
+}
+.contact-heading{
+  color: #fff;
+  font-weight: bold;
+  font-size: 30pt;
+}
+.contact-sub-title{
+  color: #04c2c9;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  padding-bottom:30px;
+
+}
+.container-fluid{
+  padding: 0px 0px 0px 0px;
+}
+/* .ant-result {
+    padding: 56px 32px!important;
+}
+.ant-result-title {
+    color: white!important;
+    font-size: 20px;
+    line-height: 1.8;
+    text-align: center;
+}
+.ant-result-icon {
+
+    margin-bottom: 10px;
+    text-align: center;
+} */
+.contact{
+ min-height: 80vh;
+ background-color: #141414;
+}

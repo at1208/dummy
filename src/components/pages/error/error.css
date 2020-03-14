@@ -1,0 +1,15 @@
+.error-container{
+  padding-top: 100px;
+  background-color: #141414;
+  height: 100vh;
+}
+.error-title{
+  font-size: 60px!important;
+  color: white;
+  font-weight: lighter;
+}
+.error-subtitle{
+  font-size: 40px!important;
+  color: white;
+  font-weight: lighter;
+}

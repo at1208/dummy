@@ -1,0 +1,16 @@
+.each-video{
+  margin: 10px;
+}
+.video-player-container{
+  height: 170px;
+}
+.video-containers{
+  margin-top: 50px;
+  min-height: 80vh;
+}
+@media (max-width: 996px) {
+  .img-mobile-view{
+    width: 100%!important;
+    height: 120px;
+  }
+}

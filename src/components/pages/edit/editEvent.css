@@ -1,0 +1,12 @@
+.des{
+  text-align: left!important
+}
+label{
+  margin-bottom: 0px!important;
+  margin-left: 7px;
+  margin-top: 10px;
+  font-size: 11px;
+}
+.edit-event-container{
+  min-height: 80vh;
+}

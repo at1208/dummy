@@ -1,0 +1,22 @@
+.video-section{
+  height: 130px;
+  width: 180px;
+  padding: 30px!important;
+  padding-top: 45px!important;
+  margin: 10px;
+  border-radius: 5px;
+  /* border: 1px solid grey; */
+  font-size: 20px;
+  color: black!important;
+  background-color: #dee2e6;
+}
+.col{
+  max-width: 100%!important;
+}
+.video-content{
+  margin-top: 80px;
+}
+
+.allVideo{
+  min-height: 66vh;
+}

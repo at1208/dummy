@@ -1,0 +1,35 @@
+.footer{
+padding: 5px;
+background-color: #1d1c1c;
+/* background-color: yellow; */
+}
+.copyright{
+  padding-top: 20px;
+  color: white;
+  font-size: 15px;
+}
+.year{
+  color: #E43B69;
+}
+.kkc-social{
+  font-size: 35px;
+   margin: 5px;
+}
+.icons{
+  padding-top: 10px;
+}
+.insta-icon{
+  color: #C13584!important;
+}
+.cc{
+  font-size: 20px;
+ margin: 10px;
+ margin-right: 1px!important;
+}
+.footer-btn{
+  color: white!important;
+  border-color: #52C2C8!important;
+  background: transparent!important;
+  margin: 15px;
+  background-color: #52C2C8!important;
+}

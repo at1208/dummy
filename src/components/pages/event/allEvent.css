@@ -1,0 +1,9 @@
+.event-container{
+  margin: 20px;
+}
+.edit-btn{
+  margin: 10px;
+}
+.all-event-container{
+  min-height: 100vh;
+}

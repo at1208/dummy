@@ -1,0 +1,23 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width:100%;
+
+}
+th{
+  background-color: #b39ddb
+}
+td, th {
+  border: 1px solid #ede7f6;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ede7f6;
+}
+
+.table-container{
+  margin-top: 50px;
+  min-height: 80vh;
+}

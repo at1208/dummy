@@ -1,0 +1,104 @@
+.home{
+  /* background-color: #141414;
+  height: 100vh; */
+  /* min-height: 100vh; */
+}
+
+.home-container{
+  /* min-height: 100vh; */
+}
+.home-outer-container{
+  background: #141414!important;
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+ height: 100%!important;
+  line-height: 160px;
+  color: white!important;
+   background: #141414!important;
+  overflow: hidden;
+  width: 100%!important;
+}
+.sliding-home{
+  background-image: url("https://iso.500px.com/wp-content/uploads/2015/07/lombardo_cover.jpeg")!important;
+}
+.home-carousel{
+  height: 100vh;
+  width: 100%!important;
+
+}
+.home-title{
+    color: white!important;
+    padding-top: 20px;
+    font-size: 80px;
+    margin-top: 100px;
+    word-spacing: 15px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+@media (max-width: 500px) {
+  .ant-carousel .slick-slide {
+    text-align: center;
+    color: white!important;
+    height: 100%!important;
+    line-height: 160px;
+    background: #141414!important;
+    overflow: hidden;
+  }
+  .home-carousel{
+    width: 100%!important;
+     /* margin-left: 20px; */
+     /* margin-right: 20px; */
+  }
+  .home-title{
+    color: white!important;
+    line-height: 50px;
+    /* padding-top: 20px; */
+    font-size: 25px!important;
+    /* margin-top: 40px; */
+    word-spacing: 250px!important;
+    /* letter-spacing: 10px; */
+    /* font-weight: bold; */
+  }
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+      width: 100%!important;
+}
+
+.each-category-container{
+  background: #141414;
+  /* margin-top: 30px; */
+  /* margin-bottom: 30px; */
+  /* height: 240px; */
+  padding-bottom: 30px;
+}
+.contest-container-info{
+  background-color: black!important;
+  height: 55vh;
+}
+.video-container{
+  background: white;
+  height: 180px;
+  width: 250px;
+  margin: 8px;
+}
+.row{
+  margin-left: 0px!important;
+  margin-right: 0px!important;
+}
+.category-title{
+  padding-left: 30px;
+  color: white;
+  padding-top: 10px;
+}
+.video-content-container{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.each-video-carousel{
+  /* margin-top: 40px; */
+  margin-bottom: 40px;
+  /* background-color: #141414; */
+}

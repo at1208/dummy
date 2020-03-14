@@ -1,0 +1,30 @@
+.upload-video{
+  background-color: red;
+}
+.container-style{
+  margin: 10px;
+}
+.input-style{
+  margin: 5px!important;
+}
+.DropzoneArea-dropZone-2{
+  min-height: 200px!important;
+  max-width:  350px!important;
+}
+.textField-container{
+  margin-bottom: 150px;
+}
+
+@media (min-width: 772px) {
+  .upload-button{
+    padding-top: 100px;
+  }
+}
+.upload-btn-style{
+  width: 150px;
+  border-radius: 5px;
+  height: 40px!important;
+}
+.upload-video-container{
+  min-height: 100vh;
+}

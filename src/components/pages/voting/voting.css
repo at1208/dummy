@@ -1,0 +1,9 @@
+.voting-container{
+  min-height: 80vh;
+}
+.outer-voting-container{
+  background-color: #141414;
+}
+.voting-title{
+  color: white;
+}

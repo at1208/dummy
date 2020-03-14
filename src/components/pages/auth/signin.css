@@ -1,0 +1,35 @@
+.signin-container{
+  /* background-color: #141414; */
+   min-height: 76vh!important;
+}
+.s-container{
+    background-color: #141414;
+}
+.signin-text{
+  color: white;
+  padding-bottom: 30px;
+}
+.signing{
+  padding-top: 50px;
+
+}
+.signin-submit-btn{
+  background-color: #52C2C8;
+  border-color: #52C2C8;
+  color: white;
+   width: 100%;
+}
+.forgot-btn{
+  background-color: red;
+  width: 150px;
+  background: #FF416C;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border: 0px solid white;
+  color: white;
+}
+.google-btn{
+  font-size: 12px!important;
+  padding: 5px 10px 5px 10px!important;
+  height: 34px!important;
+}
